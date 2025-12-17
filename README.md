@@ -1,4 +1,5 @@
 # pendulum-simulation
+Simulated pendulum motion under varying gravity using Python and Euler’s method, with visualizations validating theoretical predictions.
 
 ## Problem
 Simulating pendulum motion under varying gravitational forces is a classical physics problem. Numerical solutions help study dynamics where analytical solutions are limited.
